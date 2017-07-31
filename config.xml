@@ -3,7 +3,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "nl.degekte.app"
         versionCode = "1.0.1"
-        version     = "2.0.0" >
+        version     = "2.1.0" >
 
 	<name>Shownieuws</name>
 
@@ -25,7 +25,6 @@
 	<plugin name="cordova-plugin-splashscreen" source="npm" />
 	<plugin name="cordova-plugin-device" source="npm" />
 	<plugin name="cordova-plugin-statusbar" source="npm" />
-	<plugin name="cordova-plugin-crosswalk-webview" spec="2.3.0" source="npm" />
 	<plugin name="cordova-plugin-admobpro" spec="2.29.21" />
 	<plugin name="cordova-plugin-appsflyer-sdk" spec="4.2.23" />
 
